@@ -1,2 +1,2 @@
-# textura
-Textura project portfolio site
+# Ecofabriq
+Ecofabriq project portfolio site
